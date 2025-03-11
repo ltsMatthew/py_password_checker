@@ -31,7 +31,7 @@ or
 
 ---------------------------------------------------------------------------------------------------------------
 
-## 2️⃣ Clone the Repositor
+## 2️⃣ Clone the Repo
 
 ```git clone https://github.com/ltsMatthew/py_password_checker.git```
 
