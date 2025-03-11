@@ -77,7 +77,7 @@ If the password is weak, it will recommend changing it:
 
 If the password is strong it will display:
 
-```Strong Password!```
+>Strong Password!
 
 ---------------------------------------------------------------------------------------------------------------
 
