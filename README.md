@@ -24,7 +24,9 @@ It uses regular expressions (re module) for pattern matching and secure password
 Make sure you have Python 3 installed on your system. You can check by running:
 
 ```python --version```
+
 or
+
 ```python3 --version```
 
 ---------------------------------------------------------------------------------------------------------------
@@ -32,6 +34,7 @@ or
 ## 2️⃣ Clone the Repositor
 
 ```git clone https://github.com/ltsMatthew/py_password_checker.git```
+
 ```cd py_password_checker```
 
 ---------------------------------------------------------------------------------------------------------------
@@ -39,7 +42,9 @@ or
 ## 3️⃣ Run the Script
 
 ```python password_checker.py```
+
 or
+
 ```python3 password_checker.py```
 
 ---------------------------------------------------------------------------------------------------------------
@@ -49,10 +54,15 @@ or
 >Enter your password: ********
 >
 >Password Strength Analysis:
+>
 >- Length: Pass
+>- 
 >-  Uppercase: Fail
+>-  
 >- Lowercase: Pass
+>- 
 >- Digit: Pass
+>- 
 >- Special: Fail
 >
 >Moderate Password – Consider Making it Stronger!
