@@ -56,13 +56,13 @@ or
 >Password Strength Analysis:
 >
 >- Length: Pass
->- 
+>  
 >-  Uppercase: Fail
->-  
+>  
 >- Lowercase: Pass
->- 
+>  
 >- Digit: Pass
->- 
+>  
 >- Special: Fail
 >
 >Moderate Password – Consider Making it Stronger!
