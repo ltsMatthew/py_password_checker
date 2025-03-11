@@ -4,10 +4,15 @@
 This is a simple command-line tool that evaluates the strength of a password based on five security rules:
 
 ✅ Minimum 8 characters
+
 ✅ At least one uppercase letter
+
 ✅ At least one lowercase letter
+
 ✅ At least one digit
+
 ✅ At least one special character (!@#$%^&*(),.?":{}|<>)
+
 
 It uses regular expressions (re module) for pattern matching and secure password input (getpass module) to hide the password while typing.
 
